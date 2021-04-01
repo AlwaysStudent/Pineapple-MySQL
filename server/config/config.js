@@ -6,7 +6,7 @@ var config = {
     mysql: {
         host: 'localhost',
         user: 'root',
-        password: '123456',
+        password: 'lpf990920',
         database: 'pineapple',
         port: 3306
     },
